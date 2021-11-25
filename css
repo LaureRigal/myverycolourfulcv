@@ -1,0 +1,64 @@
+.first {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+  border: 5px solid black;
+margin-bottom: 10px;
+}
+
+.centreimage {
+  display: flex;
+  justify-content: center;
+}
+
+
+.my1stimage {
+width: 100px;
+height: 100px;
+}
+
+.title {
+color:green;
+font-family: 'Times New Roman', Times,sans-serif;
+text-decoration: underline;
+font-size: 20px;
+  }
+
+
+
+.my2ndimage {
+  width: 100px;
+  height: 100px;
+  }
+
+  .myintro {
+  color: black;
+  background-color: red;
+  font-weight: bold;
+  font-size: 20px;
+    }
+
+  .myskills {
+    color: orange;
+    }
+
+    .myskills2 {
+      color: palevioletred;
+      }
+
+    .myhobbies {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: initial;
+    font-size: 20px;
+    font-style: italic
+    }  
+  
+
+.second {
+  background-color: plum;
+  border: 5px solid blue;
+  font:59px;
+  width: 200px;
+  height: 100px;
+}
